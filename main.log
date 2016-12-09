@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.11)  8 DEC 2016 19:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.11)  9 DEC 2016 20:23
 entering extended mode
 **./main.tex
 (main.tex
@@ -564,29 +564,41 @@ File: WolfHond.jpg Graphic file (type jpg)
 Package pdftex.def Info: WolfHond.jpg used on input line 110.
 (pdftex.def)             Requested size: 350.99762pt x 198.41982pt.
  [1]
-[2 <./WolfHond.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 136--140
+[2 <./WolfHond.jpg>] [3] <EiffelToren.png, id=25, 803.0pt x 449.68pt>
+File: EiffelToren.png Graphic file (type png)
+
+<use EiffelToren.png>
+Package pdftex.def Info: EiffelToren.png used on input line 139.
+(pdftex.def)             Requested size: 350.99762pt x 196.56297pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--147
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 155--159
 []\OT1/cmr/m/n/12 Asap Sci-ence, \OT1/cmr/m/it/12 What if hu-mans dis-ap-peared
 ?\OT1/cmr/m/n/12 ,
  []
 
-[3] [4] (main.aux) ) 
+[5 <./EiffelToren.png (PNG copy)>] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 13227 strings out of 493334
- 259560 string characters out of 3139254
- 316305 words of memory out of 3000000
- 16488 multiletter control sequences out of 15000+200000
+ 13234 strings out of 493334
+ 259682 string characters out of 3139254
+ 316317 words of memory out of 3000000
+ 16494 multiletter control sequences out of 15000+200000
  7352 words of font info for 26 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,7n,56p,1135b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (5 pages, 122122 bytes).
+<C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb>
+Output written on main.pdf (6 pages, 706837 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
