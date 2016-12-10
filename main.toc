@@ -1,0 +1,11 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introductie}{2}{section.1}
+\contentsline {section}{\numberline {2}Dieren}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Huisdieren}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Boerderijdieren}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Dierentuin}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Wilde dieren}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}Constructies}{5}{section.3}
+\contentsline {section}{\numberline {4}Radioactiviteit en andere stralingen}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Radioactieve stralingen}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Andere stralingen}{8}{subsection.4.2}
