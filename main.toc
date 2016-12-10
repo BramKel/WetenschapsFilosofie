@@ -9,3 +9,4 @@
 \contentsline {section}{\numberline {4}Radioactiviteit en andere stralingen}{7}{section.4}
 \contentsline {subsection}{\numberline {4.1}Radioactieve stralingen}{7}{subsection.4.1}
 \contentsline {subsection}{\numberline {4.2}Andere stralingen}{8}{subsection.4.2}
+\contentsline {section}{\numberline {5}Herstellen van natuur}{9}{section.5}

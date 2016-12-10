@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.11)  9 DEC 2016 23:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.10.11)  10 DEC 2016 17:14
 entering extended mode
 **./main.tex
 (main.tex
@@ -587,25 +587,25 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip49
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 42.
+Package hyperref Info: Option `colorlinks' set `false' on input line 43.
 
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
@@ -637,7 +637,7 @@ G,.JBIG2,.JB2,.eps]
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring OFF on input line 44.
+Package hyperref Info: Link coloring OFF on input line 45.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -647,18 +647,18 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count143
 )
-LaTeX Info: Redefining \ref on input line 44.
-LaTeX Info: Redefining \pageref on input line 44.
-LaTeX Info: Redefining \nameref on input line 44.
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
 
 (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
- <logo.png, id=46, 332.24126pt x 152.57pt>
+ <logo.png, id=50, 332.24126pt x 152.57pt>
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 90.
+Package pdftex.def Info: logo.png used on input line 91.
 (pdftex.def)             Requested size: 332.24043pt x 152.56963pt.
 
 [1
@@ -671,58 +671,88 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.99 \newpage
-              [1] <WolfHond.jpg, id=74, 450.0012pt x 254.3904pt>
+l.100 \newpage
+               [1] <WolfHond.jpg, id=79, 450.0012pt x 254.3904pt>
 File: WolfHond.jpg Graphic file (type jpg)
 
 <use WolfHond.jpg>
-Package pdftex.def Info: WolfHond.jpg used on input line 113.
+Package pdftex.def Info: WolfHond.jpg used on input line 114.
 (pdftex.def)             Requested size: 350.99762pt x 198.41982pt.
  [2] [3 <./WolfHond.jpg>] [4]
-<EiffelToren.png, id=98, 803.0pt x 449.68pt>
+<EiffelToren.png, id=105, 803.0pt x 449.68pt>
 File: EiffelToren.png Graphic file (type png)
  <use EiffelToren.png>
-Package pdftex.def Info: EiffelToren.png used on input line 142.
+Package pdftex.def Info: EiffelToren.png used on input line 143.
 (pdftex.def)             Requested size: 350.99762pt x 196.56297pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--150
+Underfull \hbox (badness 10000) in paragraph at lines 132--151
 
  []
 
 [5] [6 <./EiffelToren.png (PNG copy)>]
-<ChernobylLam.jpg, id=114, 752.8125pt x 565.11125pt>
+<ChernobylLam.jpg, id=121, 752.8125pt x 565.11125pt>
 File: ChernobylLam.jpg Graphic file (type jpg)
  <use ChernobylLam.jpg>
-Package pdftex.def Info: ChernobylLam.jpg used on input line 159.
+Package pdftex.def Info: ChernobylLam.jpg used on input line 160.
 (pdftex.def)             Requested size: 312.00119pt x 234.215pt.
 
-[7 <./ChernobylLam.jpg>] [8] [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
+[7 <./ChernobylLam.jpg>] [8]
+<LuchtVervuiling.jpg, id=137, 903.375pt x 414.04688pt>
+File: LuchtVervuiling.jpg Graphic file (type jpg)
+
+<use LuchtVervuiling.jpg>
+Package pdftex.def Info: LuchtVervuiling.jpg used on input line 182.
+(pdftex.def)             Requested size: 312.00119pt x 143.00426pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--199
+
+ []
+
+[9 <./LuchtVervuiling.jpg>] [10]
+Underfull \hbox (badness 10000) in paragraph at lines 226--229
+[]\OT1/cmr/m/n/12 Union of Con-cerned Sci-en-tists, \OT1/cmr/m/it/12 Ve-hi-cles
+, Air Pol-lu-tion and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--229
+\OT1/cmr/m/it/12 Hu-man Health\OT1/cmr/m/n/12 , []$\OT1/cmtt/m/n/12 http : / / 
+www . ucsusa . org / clean-[]vehicles /
+ []
+
+[11]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A1F72AE422882983B1C83E524CF85846;597.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 203.
+(rerunfilecheck)             Checksum: 302F6C8F7D0C8C30D8C7126BAF4C59F8;655.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 16798 strings out of 493334
- 313781 string characters out of 3139254
- 396174 words of memory out of 3000000
- 19990 multiletter control sequences out of 15000+200000
+ 16811 strings out of 493334
+ 313972 string characters out of 3139254
+ 397292 words of memory out of 3000000
+ 19997 multiletter control sequences out of 15000+200000
  10940 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,7n,56p,1139b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,7n,56p,1167b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (10 pages, 847395 bytes).
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmtt12.pfb>
+Output written on main.pdf (12 pages, 903176 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
