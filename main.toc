@@ -1,12 +1,16 @@
 \select@language {english}
 \contentsline {section}{\numberline {1}Introductie}{2}{section.1}
-\contentsline {section}{\numberline {2}Dieren}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Huisdieren}{2}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Boerderijdieren}{3}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Dierentuin}{4}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Wilde dieren}{4}{subsection.2.4}
-\contentsline {section}{\numberline {3}Constructies}{5}{section.3}
-\contentsline {section}{\numberline {4}Radioactiviteit en andere stralingen}{7}{section.4}
-\contentsline {subsection}{\numberline {4.1}Radioactieve stralingen}{7}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Andere stralingen}{8}{subsection.4.2}
-\contentsline {section}{\numberline {5}Herstellen van natuur}{9}{section.5}
+\contentsline {section}{\numberline {2}Elektriciteit}{2}{section.2}
+\contentsline {section}{\numberline {3}Dieren}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Huisdieren}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Boerderijdieren}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Dierentuin}{6}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Wilde dieren}{6}{subsection.3.4}
+\contentsline {section}{\numberline {4}Constructies}{7}{section.4}
+\contentsline {section}{\numberline {5}Afval}{9}{section.5}
+\contentsline {section}{\numberline {6}Radioactiviteit en andere stralingen}{10}{section.6}
+\contentsline {subsection}{\numberline {6.1}Radioactieve stralingen}{10}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Andere stralingen}{11}{subsection.6.2}
+\contentsline {section}{\numberline {7}Herstellen van natuur}{12}{section.7}
+\contentsline {section}{\numberline {8}Nieuw intelligent leven?}{14}{section.8}
+\contentsline {section}{\numberline {9}Conclusie}{15}{section.9}
